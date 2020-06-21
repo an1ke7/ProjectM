@@ -2,7 +2,7 @@
 baseURL = "https://an1ke7.github.io/ProjectM/"
 title = "Project-M"
 theme = "meghna-hugo"
-publishDir = "docs"
+publishDir = "public"
 
 # post pagination
 paginate = "6"
