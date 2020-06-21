@@ -4,9 +4,17 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Project-M"
-  content : "Meet your enabler."
+  title : "FASTLE.IO"
+  content : "Seek Guidance from the industry professionals"
+  content1: ""
   button:
     enable : true
-    label : "Sign up for a FREE 1:1 session Now!"
-    link : "#services"
+    label : "Try it for free"
+#    link : "#services"
+    link : "https://docs.google.com/forms/d/e/1FAIpQLSec1F16p7tOCazBY6hKYMLt4ej85CUWnTna2b0YLQo3KEdKtg/viewform"
+
+  button1:
+    enable : true
+    label : "Learn More"
+    #link : "#about"
+    link : "#feature"

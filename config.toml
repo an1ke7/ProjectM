@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://an1ke7.github.io/ProjectM/"
-title = "Meghna"
+title = "Project-M"
 theme = "meghna-hugo"
 publishDir = "docs"
 
@@ -43,9 +43,14 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 
 ############################# Navigation ##################################
+# [[menu.main]]
+# name = "about"
+# URL = "about"
+# weight = 1
+
 [[menu.main]]
 name = "about"
-URL = "about"
+URL = "offerings"
 weight = 1
 
 [[menu.main]]
@@ -53,40 +58,40 @@ name = "services"
 URL = "services"
 weight = 2
 
-[[menu.main]]
-name = "portfolio"
-URL = "portfolio"
-weight = 3
+##[[menu.main]]
+##name = "portfolio"
+##URL = "portfolio"
+##weight = 3
 
 [[menu.main]]
 name = "team"
 URL = "team"
 weight = 4
 
-[[menu.main]]
-name = "pricing"
-URL = "pricing"
-weight = 5
+#[[menu.main]]
+##name = "pricing"
+##URL = "pricing"
+##weight = 5
 
-[[menu.main]]
-name = "blog"
-URL = "blog"
-weight = 6
+##[[menu.main]]
+##name = "blog"
+##URL = "blog"
+##weight = 6
 
-[[menu.main]]
-name = "contact"
-URL = "contact"
-weight = 7
+##[[menu.main]]
+##name = "contact"
+##URL = "contact"
+##weight = 7
 
 #### external / static link ####
-[[menu.static]]
-name = "themefisher"
-URL = "https://themefisher.com/"
-weight = 8
+##[[menu.static]]
+##name = "themefisher"
+##URL = "https://themefisher.com/"
+##weight = 8
 
 ############################# Default Parameters ##########################
 [params]
-logo = "static/images/logo.png"
+logo = "images/logo.png"
 # Meta data
 description = "Responsive Multipurpose Parallax HTML5 Template"
 author = "Themefisher"
@@ -109,29 +114,29 @@ map_longitude = "-0.1622023"
 map_marker = "static/images/marker.png"
 
 ############################# social icons ##########################
-[[params.social]]
-icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+##[[params.social]]
+##icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+##link = "#"
 
-[[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
 
-[[params.social]]
-icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+##[[params.social]]
+##icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+##link = "#"
 
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
 
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+##[[params.social]]
+##icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
+##link = "#"
 
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+##[[params.social]]
+##icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
+##link = "#"
 
 
 ################################ English Language ########################
