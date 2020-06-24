@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://an1ke7.github.io/ProjectM/"
-title = "Project-M"
+title = "fastle.io"
 theme = "meghna-hugo"
 publishDir = "public"
 

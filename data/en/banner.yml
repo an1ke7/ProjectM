@@ -1,11 +1,13 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
+  #bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image_webp : "images/backgrounds/main2.jpeg"
+  #bg_image : "images/backgrounds/hero-area.jpg"
+  bg_image : "images/backgrounds/main2.jpeg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "FASTLE.IO"
-  content : "Seek Guidance from the industry professionals"
+  title : "fastle.io"
+  content : "Your next career move starts HERE"
   content1: ""
   button:
     enable : true
