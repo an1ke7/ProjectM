@@ -2,7 +2,7 @@
 feature:
   enable : true
   #image : images/about/about-business-man.jpg
-  image: images/about/mentor.jpg
+  image: images/about/about-passion.png
   #image_webp : images/about/about-business-man.webp
   #image_webp : images/about/mentor.jpg
   title : What is fastle?
