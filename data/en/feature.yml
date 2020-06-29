@@ -5,8 +5,8 @@ feature:
   image: images/about/laptop.jpg
   #image_webp : images/about/about-business-man.webp
   #image_webp : images/about/mentor.jpg
-  title : What is fastle?
-  content : "Welcome to fastle. We are creating a collaboration platform between students and industry techies for a personalized learning experience. Our platform facilitates 1:1 live sessions, where the industry professionals ('enablers') guide the students (‘learners’) in achieving their career goals. "
+  title : About UPrep.io?
+  content : "Welcome to uprep. We are creating a collaboration platform between students and industry techies for a personalized learning experience. Our platform facilitates 1:1 live sessions, where the industry professionals ('enablers') guide the students (‘learners’) in achieving their career goals. "
   feature_item :
       # feature item loop
     - title : 1-on-1 Live Sessions
