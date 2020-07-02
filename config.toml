@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = ""
+baseURL = "https://uprep.io/"
 title = "uprep.io"
 theme = "meghna-hugo"
 publishDir = "public"
