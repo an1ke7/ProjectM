@@ -1,7 +1,7 @@
 ############################# About ###################################
 about:
   enable : true
-  title : Our Offering
+  title : Participate in...
   about_item :
   - icon : ti-light-bulb # themify icon pack : https://themify.me/themify-icons
     title : Mock Interviews
