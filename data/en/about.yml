@@ -18,3 +18,7 @@ about:
   # - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
   #   title : We're Genius
   #   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : Resume Review
+    content : Need a Resume that works? Get help from experts.

@@ -6,7 +6,7 @@ feature:
   #image_webp : images/about/about-business-man.webp
   #image_webp : images/about/mentor.jpg
   title : About UPrep.io
-  content : "When we graduated with our MS degrees in the US, we faced a lot of challenges in understanding the industry's needs and the primary things to focus on. We were desperate for personalized professional guidance in our field.  We also understand that the job market has been adversely affected during COVID, and many students and recent graduates are in a helpless situation. Our desire to help out such students and graduates gave birth to uprep.io. We are creating a collaboration platform between students and industry techies for a personalized learning experience. Our platform facilitates 1:1 live sessions, where the industry professionals (‘enablers’) guide the students (‘learners’) in achieving their career goals. "
+  content : "When we graduated with our MS degrees in the US, we faced a lot of challenges in understanding the industry’s needs and knowing the primary things to focus on. We were desperate for personalized professional guidance in our field. We also understand that the job market has been adversely affected during COVID-19, and many students and recent graduates are in a helpless situation. Our desire to help out such students and graduates gave birth to uprep.io. We are creating a collaboration platform between students and industry techies for a personalized learning experience. Our platform facilitates 1:1 live sessions, where the industry professionals (‘enablers’) guide the students (‘learners’) in achieving their career goals."
   feature_item :
       # feature item loop
     - title : 1-on-1 Live Sessions

@@ -13,6 +13,10 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = ["fr"]
 
+############# FORMKEEP  #########
+button_name = "Submit1"
+
+
 ############################# Plugins ##########################
 # css plugins
 [[params.plugins.css]]
@@ -99,6 +103,10 @@ author = "Team UPrep"
 google_analytics_id = "UA-171495552-1" # Your ID
 # post share
 post_share = true
+
+[permalinks]
+  posts = "/:title"
+  blog = "/:title"
 
 # preloader
 [params.preloader]
